@@ -1,1 +1,1 @@
-# Machine Learning Starter Resources
+# Machine Learning Starter Kit
